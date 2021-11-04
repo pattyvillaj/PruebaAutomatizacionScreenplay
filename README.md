@@ -23,4 +23,9 @@ selección en Choucair
 
   > co.com.choucair.certification.proyectobase.runners.RunnerTags
 
+## Resultado Ejecución Automatización
+
+![reporte](img/ResultadoPrueba.PNG)
+![reporte](img/ResultadoPrueba1.PNG)
+
 
